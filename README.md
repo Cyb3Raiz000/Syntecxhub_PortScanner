@@ -1,5 +1,5 @@
 # Syntecxhub_PortScanner
-Python Base TCP Open Port Scanner.., It will MAP Entire Open Ports based on your starting port number and What will you give ending port number.
+<b><h3>Python Base TCP Open Port Scanner.., It will MAP Entire Open Ports based on your starting port number and What will you give ending port number.</h3></b>
 
 # 📌Key Objectives
 ## Build a TCP port scanner that checks open ports on a host.
