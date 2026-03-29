@@ -18,14 +18,14 @@ git clone https://github.com/Cyb3Raiz000/Syntecxhub_PortScanner.git
 cd Syntecxhub_PortScanner
 ```
 
-## 🔨 Run 
+## 🔨 Run command
 ```
 python tcp_port_scanner.py
 ```
 
 # 🚀 SyntecxHub Port Scanner
 <div align="center">
-  <img src="assets/syntecxhub_network_map.gif" alt="SUCCESS Solve The Room Demo" width="800">
+  <img src="assets/syntecxhub_network_map.gif" alt="SUCCESS Solve The Room Demo" width="900">
   <p align="center">
     <b>Figure: Demo </b>
   </p>
