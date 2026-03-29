@@ -7,7 +7,23 @@
 ## Add options for scanning a single host or a range of ports.
 ## Print and log results (open/closed/timeouts) and handle exceptions.
 
-# 🛠️ SyntecxHub Port Scanner
+# 🛠️ Downlaod/Usage
+## 🏭 Clone repository
+``` 
+git clone https://github.com/Cyb3Raiz000/Syntecxhub_PortScanner.git
+```
+
+## 📁 Navigate to Project folder
+```
+cd Syntecxhub_PortScanner
+```
+
+## 🔨 Run 
+```
+python tcp_port_scanner.py
+```
+
+# 🚀 SyntecxHub Port Scanner
 <div align="center">
   <img src="assets/syntecxhub_network_map.gif" alt="SUCCESS Solve The Room Demo" width="800">
   <p align="center">
