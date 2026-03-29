@@ -6,3 +6,11 @@
 ## Learn socket programming basics and concurrency (threads).
 ## Add options for scanning a single host or a range of ports.
 ## Print and log results (open/closed/timeouts) and handle exceptions.
+
+# 🛠️ SyntecxHub Port Scanner
+<div align="center">
+  <img src="assets/" alt="SUCCESS Solve The Room Demo" width="800">
+  <p align="center">
+    <b>Figure: Demo </b>
+  </p>
+</div>
