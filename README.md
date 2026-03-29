@@ -9,7 +9,7 @@
 
 # 🛠️ SyntecxHub Port Scanner
 <div align="center">
-  <img src="assets/" alt="SUCCESS Solve The Room Demo" width="800">
+  <img src="assets/syntecxhub_network_map.gif" alt="SUCCESS Solve The Room Demo" width="800">
   <p align="center">
     <b>Figure: Demo </b>
   </p>
