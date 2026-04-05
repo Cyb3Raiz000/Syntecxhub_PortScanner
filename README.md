@@ -101,4 +101,4 @@ MIT License — free to use, modify, and distribute.
 ## 👤 Author
 
 **Cyb3Raiz000**  
-Built with Python Scanner · TCP Sockets · Threading - logging
+Built with Python Scanner · TCP Sockets · Threading · logging
